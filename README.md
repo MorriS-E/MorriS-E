@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorriS-E
 - 👀 I’m interested in learning to become a programmer
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning python, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
